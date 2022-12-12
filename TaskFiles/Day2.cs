@@ -1,4 +1,4 @@
-﻿namespace AdventOFCode2022.Day2;
+﻿namespace AdventOFCode2022.TaskFiles;
 
 public static class Day2
 {
